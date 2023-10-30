@@ -1,0 +1,131 @@
+/* body {
+  width: 90%;
+  margin: 30px auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+a {
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+  margin-right: 8px;
+  text-decoration: none;
+  color: black;
+}
+
+a:nth-of-type(2n) {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 50em) {
+  a {
+    width: calc(25% - 6px);
+  }
+
+  a:nth-of-type(2n) {
+    margin-right: 8px;
+  }
+
+  a:nth-of-type(4n) {
+    margin-right: 0;
+  }
+}
+
+a:hover img {
+  transform: scale(1.15);
+}
+
+figure {
+  margin: 0;
+  overflow: hidden;
+}
+
+figcaption {
+  margin-top: 15px;
+}
+
+img {
+  flex: 1 1 auto;
+  border: none;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  background: #ccc;
+  
+} */
+
+
+
+
+
+
+
+
+/* Разделительный комент между разными версиями этого говна */
+
+
+
+
+
+/* body {
+  width: 90%;
+  margin: 30px auto;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.box {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 1em;
+
+}
+
+
+
+.el {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-color: aqua;
+
+}
+
+img {
+  max-width: 100%;
+  display: block;
+
+}
+
+.image {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+
+}
+
+@media screen and (min-width: 760px; ) {
+  .box {
+    width: calc(25% - 6px);
+  }
+
+} */
+
+
+
+
+
+
+
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
